@@ -1,0 +1,229 @@
+[Root]
+Most Recent Package=Setup
+
+
+[Package|Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Package
+
+[Package|Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Setup|Files Found]
+Klaim.rpt=C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Klaim.rpt
+
+[Package|Setup|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|Setup|Missing Dependency Information]
+
+[Package|Setup|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\msmask32.ocx=
+C:\WINDOWS\SYSTEM\mscomct2.ocx=
+C:\WINDOWS\SYSTEM\tabctl32.ocx=
+
+[Package|Setup|Files Added]
+klaim.rpt=
+nasabah1.rpt=
+nasabah2.rpt=
+premi.rpt=
+produksi.rpt=
+
+[Package|Setup|Files Removed]
+
+[Package|Setup|Files In Project]
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\tabctl32.ocx=Yes
+C:\WINDOWS\SYSTEM\mscomct2.ocx=Yes
+C:\WINDOWS\SYSTEM\Comctl32.ocx=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\msmask32.ocx=Yes
+C:\WINDOWS\SYSTEM\Crystl32.OCX=Yes
+C:\WINDOWS\SYSTEM\crpe32.dll=Yes
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=Yes
+C:\WINDOWS\SYSTEM\Crpaig80.dll=Yes
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\MFC42.DLL=Yes
+C:\WINDOWS\Crystal\Crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\SYSTEM\P2bbnd.dll=Yes
+C:\WINDOWS\SYSTEM\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\SYSTEM\p2ctdao.dll=Yes
+C:\WINDOWS\SYSTEM\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\SYSTEM\P2smon.dll=Yes
+C:\WINDOWS\SYSTEM\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+\program files\seagate software\shared\SSCSDK80.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Asuransi.exe=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Klaim.rpt=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Nasabah1.rpt=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Nasabah2.rpt=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Premi.rpt=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Produksi.rpt=Yes
+
+[Package|Setup|Configure Registry Files]
+Applicable=No
+
+[Package|Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|Setup|Install Locations]
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Asuransi.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Crpaig80.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MFC42.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\Crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\shared\SSCSDK80.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Klaim.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Nasabah1.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Nasabah2.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Premi.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Produksi.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Asuransi.exe=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Klaim.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Nasabah1.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Nasabah2.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Premi.rpt=$(AppPath)
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Produksi.rpt=$(AppPath)
+
+[Package|Setup|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Asuransi.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Klaim.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Nasabah1.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Nasabah2.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Premi.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Produksi.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Asuransi.exe=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Klaim.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Nasabah1.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Nasabah2.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Premi.rpt=No
+C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code\Produksi.rpt=No
+
+[Package|Setup|Distribution]
+Type=single
+Size=
+Title=PT Allianz Life Palembang
+
+[Package|Setup|IconGroups]
+Group0=Aplikasi SI Asuransi Jiwa dan Kesehatan
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Setup|Aplikasi SI Asuransi Jiwa dan Kesehatan]
+Icon1=Asuransi.exe
+Title1=Aplikasi SI Asuransi Jiwa dan Kesehatan
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Setup|Package]
+PackageFolder=C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Package
+ProjectFolder=C:\My Documents\Trisnadi\STMIK MDP\Skripsi\Source Code
+ServerSideCab=
+File1=C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Package\setup.exe
+File2=C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Package\Setup.Lst
+File3=C:\My Documents\Trisnadi\STMIK MDP\Skripsi STMIK MDP\Program\Package\Asuransi.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
